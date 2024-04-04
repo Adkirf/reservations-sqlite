@@ -28,6 +28,10 @@ label {
   color: white;
 }
 
+button {
+  color: white;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
